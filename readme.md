@@ -10,6 +10,9 @@ $ npm i
 $ node main.js
 ```
 
-* 참고  
-[1]: https://kay0426.tistory.com/27 https://kay0426.tistory.com/27
-[2]: https://kay0426.tistory.com/27 https://kay0426.tistory.com/28
+* 참고 
+아래 블로그 설명을 참고
+```
+[1] https://kay0426.tistory.com/27
+[2] https://kay0426.tistory.com/28
+```
